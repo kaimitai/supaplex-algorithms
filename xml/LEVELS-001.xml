@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!-- Supaplex Level created by Superplexed (https://github.com/kaimitai/superplexed) -->
 <superplexed app_version="0.11">
-	<level title="-- LINEAR LINKED LIST -" player_x="1" player_y="22" infotrons_needed="0" gravity="false" freeze_zonks="false" speedfix_version="32" speedfix_demo_bytes="97,0,35,60" unknown_bytes="0,20,0,12">
+	<level title="- LINEARLY LINKED LIST-" player_x="1" player_y="22" infotrons_needed="0" gravity="false" freeze_zonks="false" speedfix_version="32" speedfix_demo_bytes="97,0,35,60" unknown_bytes="0,20,0,12">
 		<tile_rows>
 			<tile_row no="1" value="6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6" />
 			<tile_row no="2" value="6,0,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,6,0,0,0,0,6,1,0,0,0,0,0,1,0,0,4,4,6,2,2,2,25,2,2,25,2,2,2,2,2,2,2,2,25,2,2,25,2,2,2,2,2,6" />
