@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- Configuration file for Superplexed (https://github.com/kaimitai/superplexed) -->
+<superplexed app_version="0.2-snapshot" project_folder=".">
+  <predefined_levelset filename="algorithms" level_count="111">
+	<level_file filepath="./xml/linearly_linked_list.xml" />
+	<level_file filepath="./xml/exhaustive_recursion.xml" />
+	<level_file filepath="./xml/middle_square_method.xml" />
+	<level_file filepath="./xml/out_of_bounds_check.xml" />
+	<level_file filepath="./xml/visitor_pattern.xml" />
+	<level_file filepath="./xml/crc_signature.xml" />
+	<level_file filepath="./xml/binary_search.xml" />
+	<level_file filepath="./xml/circular_buffer.xml" />
+  </predefined_levelset>
+</superplexed>
